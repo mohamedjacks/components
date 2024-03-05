@@ -1,6 +1,6 @@
 {
   "name": "cj-component",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Components repo",
   "main": "index.js",
   "scripts": {
